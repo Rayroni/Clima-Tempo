@@ -14,5 +14,6 @@ Studying api consumption and where show a weather of all cities
   <li>bootstrap</li>
   
  <h3> ℹ️ How to use<h3>
- <h2>Go at GitHub Pages:<h2/>
+ <h2>Go at GitHub Pages and put your city in Brazil.:<h2/>
+https://rayroni.github.io/Clima-Tempo/
 
