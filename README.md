@@ -18,4 +18,5 @@ https://rayroni.github.io/Clima-Tempo/
 <h3> More about de API Code<h3>
 <img src="https://media.discordapp.net/attachments/914344565073412126/968841293243490364/Api.JPG?width=1354&height=676"
      alt="apiCode">
-     Thanks for look that!
+     In this project i learning more about de api and how to use ,i think it's amazing we can do a lot of things 
+    <h3> Thanks for look that!❤️</h3>
