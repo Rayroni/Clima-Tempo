@@ -15,6 +15,7 @@ Studying api consumption and where show a weather of all cities of  Brazil ,this
  <h2>Go at GitHub Pages and put your city in Brazil.:<h2/>
 https://rayroni.github.io/Clima-Tempo/
 
-
-  
-  Thanks for look that!
+<h3> More about de API Code<h3>
+<img src="https://media.discordapp.net/attachments/914344565073412126/968841293243490364/Api.JPG?width=1354&height=676"
+     alt="apiCode">
+     Thanks for look that!
